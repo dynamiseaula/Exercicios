@@ -2,11 +2,10 @@
 tarefas = []
 
 def desenhar_menu():
-
+    print("Menu:")
     print("[1] - Listar tarefas")
     print("[2] - Adicionar tarefa")
     print("[3] - Excluir tarefa")
-    print("[4] - Sair")
 
 
 def adicionar_tarefa():
